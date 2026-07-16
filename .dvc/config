@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = D:\JUPYTER NOTEBOOK--1\DSMP-2\ML-OPS\DVC_DATA\3.dvc_data
